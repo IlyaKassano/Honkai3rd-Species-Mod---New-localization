@@ -1,0 +1,169 @@
+﻿l_english:
+ Houkai3rd: "Honkai 3rd Species"
+ houkai3rd: "Honkai 3"
+
+ name_list_Honkainame: "Honkai 3"
+ FLAG_CATEGORY_honkaiflags: "Honkai 3 Flags"
+
+ ##Traits, Civics
+ trait_schicksal: "Schicksal Organization"
+ trait_schicksal_desc: "As the world's largest organization that fights against the Honkai, Schicksal currently controls the mother planet and has begun to advance into deep space..."
+
+ trait_antientropy: "Anti-Entropy Organization"
+ trait_antientropy_desc: "Anti-Entropy Organization was established in 1955 by Walter, who led the North American branch of Schicksal and founded the organization due to dissatisfaction with Bishop Otto's policies. It seeks to utilize Honkai energy through machines..."
+
+ civic_apocalypsehouse: "Apocalypse Family"
+ civic_apocalypsehouse_desc: "The Apocalypse family can be traced back to the time of the Western Roman Empire. In the development of over a thousand years, their family power gradually grew within the church. Since Pope Sixtus IV proclaimed Otto Apocalypse as the archbishop of Schicksal, who is immortal and has absolute authority over the Schicksal organization even in the 23rd century..."
+
+ civic_lab: "Schicksal Sanctum"
+ civic_lab_desc: "The Schicksal Sanctum, directly under the headquarters, is a sacred laboratory where members conducted Honkai energy experiments under the name of alchemy since the Middle Ages. Even now, many of the weapons developed by Schicksal are still produced by the laboratory. The most representative ones are Sanctuaries 7308 and 1504."
+
+ civic_meinc: "M.E. Company"
+ civic_meinc_desc: "M.E. Company was initially founded by Raiden Ryoma as a technology company and has been responsible for developing equipment for Anti-Entropy. However, after the coup by the reformists led by Kiana Kaslana, the company seems to have deviated from the original intention of the founder of Anti-Entropy..."
+
+ civic_mikoyan: "Mikoyan Central Design Bureau"
+ civic_mikoyan_desc: "Mikoyan Central Design Bureau is a weapon development institution under the 'World Serpent' organization. Its equipment concept is different from that of Schicksal and Anti-Entropy, and its emphasis on mass production even led its equipment to be used by the Soviet army. At the end of the Third Honkai War, with the complete destruction of the 'World Serpent' by Schicksal, the Mikoyan Design Bureau turned to serve under Anti-Entropy."
+
+ civic_kaslanahouse: "Kaslana Family"
+ civic_kaslanahouse_desc: "The ancestors of the Kaslana family were already frontline warriors against the Honkai in the last civilization era. At the beginning of this civilization era, the unfrozen ancestors of the Kaslana family established the Kaslana family. In the development of several thousand years, with their supernatural abilities, they naturally became one of the three main pillar families of Schicksal, an organization that fights against the Honkai. However, after the grudges and grievances of the Second Honkai War, will they still stand with Schicksal?"
+
+ civic_schariachouse: "Schariac Family"
+ civic_schariachouse_desc: "The ancient Shariac family had been engaged in the fight against the Honkai in Germania before the establishment of \"Fate\". In the late fourth century, the Shariac family, together with the Apocalyps and the Caslana families, jointly created \"Fate\" and remained an important force in the fight against the Honkai on the battlefield for several centuries. However, with the sacrifice of Cecilia Shariac in the Second Honkai War, today, will the Shariac family still stand with Fate?"
+
+ honkai: "Honkai"
+ honkai_desc: "Honkai study is a science that researches how to apply the powerful abnormal energy - Honkai energy"
+
+ honkai_energy: "Honkai Energy"
+ honkai_energy_desc: "Honkai Energy is a powerful and mysterious energy that has caused a series of disasters, but can now be used by us"
+
+ ###Ascension
+ ap_herrscher: "Ascension of the Lawmaker"
+ ap_herrscher_desc: "Through years of research on the Lawmaker and Honkai energy, we have roughly grasped the relationship between the two. Now what we need to do is to apply it to our people. This is just the prelude to our leadership in the galaxy..."
+
+ ap_quantumhonkai: "Quantum Honkai Studies"
+ ap_quantumhonkai_desc: "Our research on the combination of quantum science and Honkai studies has made significant progress in the application of Honkai energy. With these research results, we will be able to lead the galaxy."
+
+ ##Modules
+ CYCLOPS: "Cyclops"
+ SMALL_CYCLOPS: "Small Cyclops"
+ MEDIUM_CYCLOPS: "Medium Cyclops"
+ LARGE_CYCLOPS: "Large Cyclops"
+ CYCLOPS_DESC: "The Honkai heavy artillery designed by Miho Yang Central Manufacturing Bureau, and its improved derivative is widely used on small warships."
+
+ PROJECT_BUNNY: "Heavy Bunny 19C"
+ SMALL_PROJECT_BUNNY: "Small Heavy Bunny 19C"
+ MEDIUM_PROJECT_BUNNY: "Medium Heavy Bunny 19C"
+ LARGE_PROJECT_BUNNY: "Large Heavy Bunny 19C"
+ PROJECT_BUNNY_DESC: "The heavy artillery designed by Miho Yang Central Manufacturing Bureau has the same structure as Bronya's Heavy Bunny 19C, and its improved version is widely used on medium and small warships."
+
+ TYR_HAND: "Tyr's Severed Arm"
+ SMALL_TYR_HAND: "Small Tyr's Severed Arm"
+ MEDIUM_TYR_HAND: "Medium Tyr's Severed Arm"
+ LARGE_TYR_HAND: "Large Tyr's Severed Arm"
+ TYR_HAND_DESC: "With the help of the \"Soul Steel\", Fate developed the \"God's Seat\" series of weapons, which can use Honkai energy to launch powerful shells, mainly equipped on new warships."
+
+ 5TH_RELIC: "5th Relic"
+ SMALL_5TH_RELIC: "Small 5th Relic"
+ MEDIUM_5TH_RELIC: "Medium 5th Relic"
+ LARGE_5TH_RELIC: "Large 5th Relic"
+ 5TH_RELIC_DESC: "The heavy long-range combat weapon made by the previous civilization excavated by the Fate organization in Lake Baikal, using a core drive similar to that of the Lawmaker. After years of analysis, its technology is surprisingly similar to that of the Lost Empire..."
+ 
+ ALBERICH_BOW: "Fairy Bow"
+ PD_ALBERICH_BOW: "Fairy Bow"
+ ALBERICH_BOW_DESC: "A weapon from the 'Zhou God Seat' series developed with 'soul steel' by the destiny. The converter inside the barrel can manipulate the surrounding airflow using the Collapse Energy, just like the blessing of the fairy king."
+
+ MARKOV_C: "Markov C"
+ MARKOV_C_DESC: "A Collapse Energy heavy weapon manufactured by Mikhail Central Design Bureau. The Collapse Energy crystal fragments are embedded in the standard Soviet weapons, and it is widely equipped in the air force artillery units."
+
+ RAIDER: "Raider Split Missile"
+ RAIDER_DESC: "A split missile designed by the Mikhail Central Design Bureau with the ability to absorb Collapse Energy chains to inflict heavy damage on the target. It is widely equipped on the air force support ships."
+
+ MIG_7: "MIG-7 Laser Cannon"
+ SMALL_MIG_7: "Small MIG-7 Laser Cannon"
+ MEDIUM_MIG_7: "Medium MIG-7 Laser Cannon"
+ LARGE_MIG_7: "Large MIG-7 Laser Cannon"
+ MIG_7_DESC: "A high-intensity laser produced using superconducting technology to generate stored energy currents, and it is widely equipped on small and civilian ships."
+
+ CATHODE_9: "Cathode Cannon 09"
+ SMALL_CATHODE_9: "Small Cathode Cannon 09"
+ MEDIUM_CATHODE_9: "Medium Cathode Cannon 09"
+ LARGE_CATHODE_9: "Large Cathode Cannon 09"
+ CATHODE_9_DESC: "A beam cannon developed by Kiana Kaslana, the current head of ME, which can split the cathode from the Collapse Energy particles and emit them as a beam through a vibration device. It is widely equipped on various types of ships."
+
+ QUANTUM_DESTROYER: "Quantum Destroyer II"
+ SMALL_QUANTUM_DESTROYER: "Small Quantum Destroyer II"
+ MEDIUM_QUANTUM_DESTROYER: "Medium Quantum Destroyer II"
+ LARGE_QUANTUM_DESTROYER: "Large Quantum Destroyer II"
+ QUANTUM_DESTROYER_DESC: "Based on the data obtained from experiments on Herrscher, the research on quantum technology has made significant progress. This weapon is developed based on quantum technology."
+
+ HEL_BOW: "Otherworldly-Herrscher's Bow"
+ PD_HEL_BOW: "Otherworldly-Herrscher's Bow"
+ HEL_BOW_DESC: "The director of the Destiny Sanctum Research Institute, Kiana Kaslana, reversed the design of the Fairy Bow and made the 'Dark Bow.' It is named after the goddess Hel, the mortal enemy of the Valkyries in Norse mythology."
+
+ WATER_SPIRIT: "Water Spirit II"
+ SMALL_WATER_SPIRIT: "Small Water Spirit II"
+ MEDIUM_WATER_SPIRIT: "Medium Water Spirit II"
+ LARGE_WATER_SPIRIT: "Large Water Spirit II"
+ WATER_SPIRIT_DESC: "A plasma cannon designed by the Holy 7308 Research Institute for the fleet, with an I-32 modified Collapse Energy engine installed inside. The condensed particles generated by the core absorb heat when concentrated on a target, and the target's armor is shattered."
+
+ LIGHT_SHADOW: "Light and Shadow"
+ SMALL_LIGHT_SHADOW: "Small Light and Shadow"
+ MEDIUM_LIGHT_SHADOW: "Medium Light and Shadow"
+ LARGE_LIGHT_SHADOW: "Large Light and Shadow"
+ LIGHT_SHADOW_DESC: "The plasma cannon developed by ME Corporation using Project-MEI's data, which causes the two mutually exclusive particles to rupture and shatter the target armor through the compression of a strong electromagnetic field."
+ 
+ 2ND_RELIC: "2nd Relic"
+ SMALL_2ND_RELIC: "Small 2nd Relic"
+ MEDIUM_2ND_RELIC: "Medium 2nd Relic"
+ LARGE_2ND_RELIC: "Large 2nd Relic"
+ 2ND_RELIC_DESC: "The plasma cannon made in the previous civilization era excavated by the Schicksal organization at Lake Baikal, which uses a core driver similar to that of Lawmaker. After years of analysis, its technology turned out to be identical to that of the Lost Empire..."
+ 
+ MJOLNIR: "Mjolnir"
+ SMALL_MJOLNIR: "Small Mjolnir"
+ MEDIUM_MJOLNIR: "Medium Mjolnir"
+ MJOLNIR_DESC: "The \"God Seat\" series of weapons developed by Schicksal with the help of \"Soul Steel\" contain a large amount of Honkai energy particles, and the strong reaction triggered upon activation can instantly shatter enemy shields."
+ 
+ ENERGY_LEAPER: "Energy Leaper"
+ SMALL_ENERGY_LEAPER: "Small Energy Leaper"
+ MEDIUM_ENERGY_LEAPER: "Medium Energy Leaper"
+ ENERGY_LEAPER_DESC: "Based on the data obtained from experiments on Himeko, anti-entropy has made significant progress in the research of quantum technology, and has developed this fragmentation cannon based on quantum technology."
+ 
+ BLAZE_DESTROYER: "Blaze Destroyer"
+ SMALL_BLAZE_DESTROYER: "Blaze Destroyer"
+ BLAZE_DESTROYER_DESC: "The machine gun developed by ME Corporation using Project-MEI's data, which uses an extremely strong electromagnetic field vibration to release terrifying firepower."
+ 
+ HYPER_RAILGUN: "Hyper Railgun"
+ SMALL_HYPER_RAILGUN: "Hyper Railgun"
+ HYPER_RAILGUN_DESC: "The machine gun developed by ME Corporation using experimental data from Project-MEI several years ago, which successfully bound a large amount of Honkai energy particles in an electromagnetic field and thereby enhanced its firing rate and projectile."
+ 
+ CORE_EVOKER: "Core Evoker DELTA"
+ CORE_EVOKER_DESC: "The super electromagnetic energy cannon developed by ME Corporation using Project-MEI's data, which compresses Honkai energy particles through the constraint of an electromagnetic field and releases a high-energy beam when it reaches the limit."
+ 
+ STAR_DESTROYER: "Star Destroyer 19C"
+ STAR_DESTROYER_DESC: "The heavy-duty Bunny 19C, whose posture changes with Bronya's emotional fluctuations, has been strengthened to the extreme, and its firepower is like that of Lawmaker. After years of analysis, its technology turned out to be identical to that of the Lost Empire..."
+ 
+ AICHAN_CANNON: "Aichan Cannon"
+ LARGE_AICHAN_CANNON: "Aichan Cannon"
+ AICHAN_CANNON_DESC: "Limited-time weapon for April Fool's Day 2417, let's say together: Pay-to-win! Strong! Invincible!"
+ 
+ CROSS_RANGER: "Cross Ranger Bomber"
+ CROSS_RANGER_DESC: "The main fighter of the Valkyrie fleet that once operated on the Chariot Star, designed with both firepower and mobility in mind. After the war, the wreckage of the fleet captain's machine was found on a Solinid corpse, silently commemorating the fallen warrior..."
+
+ CROSS_ELIUDNIR: "Eliudnir-class Fighter"
+ CROSS_ELIUDNIR_DESC: "Designed by the head of the Fate Sanctum 1504 Research Institute, Changguang, under Otto's orders. In legend, Eliudnir is the palace where the death goddess Hel resides. What enemy was this type of fighter designed to fight against?.."
+
+ CROSS_11TH: "11th Relic"
+ CROSS_11TH_DESC: "An autonomous weapon made by the Fate Organization during the last civilization era, excavated in Haddengael, Norway, using a core similar to that of the Lurker. After years of analysis, its technology is surprisingly similar to that of the Lost Empire..."
+
+ ###Events
+ hkas.1.name: "Ascension of the Fate Organization's Lurker"
+ hkas.1.desc: "Honkai has accompanied the course of human history for thousands of years, and countless warriors have sacrificed their lives to fight against it. Today, the Fate Organization's Foreign Affairs Department officially announced that they have mastered the Honkai energy and successfully applied it to artificial Lurkers, claiming that this will bring prosperity and stability to the galaxy..."
+ hkas.1.a: "The Bishop will lead us to glory and greatness!"
+ hkas.1.b: "Hmph, that green-hat charlatan should go lick his VR Kallen!"
+ hkas.1.c: "Just a bunch of fools."
+
+ hkas.2.name: "Ascension of the Anti-Entropy Organization's Honkai Energy"
+ hkas.2.desc: "Honkai has accompanied the course of human history for thousands of years, and countless warriors have sacrificed their lives to fight against it. Today, the Anti-Entropy Organization's Foreign Affairs Department officially announced that they have mastered the Honkai energy and widely applied it to various aspects of society, claiming that the latest Honkai Energy Mechas are invincible..."
+ hkas.2.a: "Our use of Honkai energy will lead us to a bright future."
+ hkas.2.b: "Hmph, those tin cans have battle strength inferior to the Bishop's Kallen figurine!"
+ hkas.2.c: "Just a bunch of fools."
