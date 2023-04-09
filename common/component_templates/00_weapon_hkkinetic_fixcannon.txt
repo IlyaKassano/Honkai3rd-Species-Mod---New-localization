@@ -1,0 +1,41 @@
+weapon_component_template = {
+	key = "LARGE_AICHAN_CANNON"
+	size = large
+	entity = "large_kinetic_gun_entity"
+	type = instant
+	icon = "GFX_ship_part_aichan"
+	icon_frame = 1
+	prerequisites = { "tech_aichan_cannon_dup" }
+	component_set = "AICHAN_CANNON"
+	projectile_gfx = "adv_kinetic_artillery"
+	tags = { weapon_type_kinetic }
+	ai_tags = { weapon_role_artillery }
+	resources = {
+		category = ship_components
+		cost = {
+			alloys = @l_t6_cost
+			volatile_motes = @l_t6_rare
+			honkai_energy = @l_t6_rare
+		}		
+		upkeep = {
+			energy = @l_t6_upkeep_energy
+			alloys = @l_t6_upkeep_alloys
+		}
+	}
+	
+	damage = { min = 6 max = 648 }
+	windup = {min = 3 max = 30 }
+	#total_fire_time = 
+	range = 128
+	accuracy = 0.88
+	power = -100
+	
+	hull_damage = 1
+	armor_damage = 1
+	shield_damage = 1
+	total_fire_time = 48
+	tracking = 0
+	
+	firing_arc = 360
+	use_ship_kill_target = no
+}

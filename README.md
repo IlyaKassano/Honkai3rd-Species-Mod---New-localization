@@ -1,0 +1,1 @@
+# Honkai3rd-Species-Mod---New-localization

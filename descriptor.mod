@@ -2,6 +2,9 @@ version="1.0.0"
 tags={
 	"Translation"
 }
-name="Honkai3rd Species Mod - ChatGPT Localization"
+dependencies={
+	"Honkai3rd Species Mod"
+}
+name="Honkai3rd Species Mod - Fix specialists & English Auto-Translation"
 picture="thumbnail.png"
 supported_version="3.*.*"
